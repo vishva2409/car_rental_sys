@@ -1,13 +1,13 @@
 # car_rental_sys
-Car Rental System (Java Console Application)
+--> Car Rental System (Java Console Application)
 
 **Overview**
 
-The Car Rental System is a simple console-based Java application that allows users to rent and return cars. The project demonstrates the practical implementation of Object-Oriented Programming (OOP) concepts such as classes, objects, encapsulation, abstraction, and object interaction.
+--> The Car Rental System is a simple console-based Java application that allows users to rent and return cars. The project demonstrates the practical implementation of Object-Oriented Programming (OOP) concepts such as classes, objects, encapsulation, abstraction, and object interaction.
 
-The system maintains records of available cars, customers, and rental transactions. Users can view available cars, rent a car for a specific number of days, calculate rental costs, and return rented vehicles.
+--> The system maintains records of available cars, customers, and rental transactions. Users can view available cars, rent a car for a specific number of days, calculate rental costs, and return rented vehicles.
 
-This project is designed for beginners who want to understand how multiple classes work together in a real-world application.
+--> This project is designed for beginners who want to understand how multiple classes work together in a real-world application.
 
 **Features**
 View available cars
